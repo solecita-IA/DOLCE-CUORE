@@ -8,7 +8,7 @@ Nuestro objetivo es contribuir al desarrollo de soluciones modernas que apoyen e
 El proyecto también presenta un importante potencial de crecimiento en instituciones educativas, tiendas tecnológicas, plataformas digitales y centros de apoyo emocional.
 ✨Dolce Cuore✨
 
-🧸 DOLCE CUORE — BUSINESS MODEL CANVAS
+🧸 DOLCE CUORE — 
 
 💜 1. Propuesta de valor
 

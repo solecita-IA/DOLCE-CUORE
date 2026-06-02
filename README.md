@@ -126,8 +126,4 @@ Dolce Cuore contribuye al bienestar emocional, ofreciendo compañía interactiva
 
 ⸻
 
-🎤 FRASE CLAVE (PÓNGANLA EN EL CENTRO)
-
-👉 “Dolce Cuore convierte un peluche en un compañero emocional inteligente que cuida de ti.”
-
-1
+🎤 FRASE CLAVE: 👉 “Dolce Cuore convierte un peluche en un compañero emocional inteligente que cuida de ti.”
